@@ -6,3 +6,6 @@ In this assignment, I will try to build an interactive dashboard to explore the 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 
+Code has been written using Plotly, JavaScript, HTML, CSS, and D3.js and a bar chart, bubble chart and a bonus gauge chart to show the dataset. 
+
+
